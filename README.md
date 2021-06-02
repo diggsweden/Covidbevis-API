@@ -1,7 +1,9 @@
 ![Logo](https://docs.swedenconnect.se/technical-framework/latest/img/digg_centered.png)
 
-# Covid-Bevis-API
+# Covidbevis-API
 API specification for approved test companies och care givers for communication with the Swedish Covid Certificate Service.
+
+[The swagger file can be found here](https://diggsweden.github.io/Covidbevis-API/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
